@@ -1,3 +1,3 @@
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")[Anna Lennerup](https://se.linkedin.com/in/anna-lennerup-7a630314) (annalennerup@gmail.com)
+![Anna Lennerup](http://www.student.bth.se/~anln17/dbwebb-kurser/htmlphp/me/kmom01/me1/img/me-small.jpg "Anna Lennerup") 
 
-Hej hej
+Anna jobbar med teknisk support inom online marknadsföring och studerar webbprogrammeringen på Blekinges tekniska högskola.

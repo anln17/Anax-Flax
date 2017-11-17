@@ -7,4 +7,4 @@ The primary focus of this site is to:
 
 The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
 
-This site is produced by [Anna Lennerup](https://tbc.com).
+This site is produced by [Anna Lennerup](https://se.linkedin.com/in/anna-lennerup-7a630314).

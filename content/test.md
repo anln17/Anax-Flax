@@ -10,4 +10,4 @@ views:
                 route: block/byline
 ...
 
-Test test
+Test
